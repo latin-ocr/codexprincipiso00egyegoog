@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexprincipiso00egyegoog_0319.png"; bbox 0 0 4000 5417; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 1255 1933 1826">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 1255 1933 1826">
+     <span class='ocr_line' id='line_1_1' title="bbox 151 1255 1933 1826; baseline 0.001 -68.381"><span class='ocrx_word' id='word_1_1' title='bbox 151 1265 1399 1826; x_wconf 79' lang='lat' dir='ltr'>comcls</span> <span class='ocrx_word' id='word_1_2' title='bbox 1874 1255 1933 1358; x_wconf 71' lang='lat'><em>⁷</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 233 1916 1512 2100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 233 1916 1512 2100">
+     <span class='ocr_line' id='line_1_2' title="bbox 233 1916 1512 2100; baseline 0.002 -5"><span class='ocrx_word' id='word_1_3' title='bbox 233 1916 1512 2100; x_wconf 85' lang='lat' dir='ltr'><strong>LAURISHAMENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 370 2247 1628 2783">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 370 2247 1628 2672">
+     <span class='ocr_line' id='line_1_3' title="bbox 529 2247 1214 2394; baseline 0.009 -9"><span class='ocrx_word' id='word_1_4' title='bbox 529 2247 776 2392; x_wconf 87' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 833 2249 1214 2394; x_wconf 83' lang='lat' dir='ltr'><strong>ALTERA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 370 2509 1628 2783; baseline 0.005 -119"><span class='ocrx_word' id='word_1_6' title='bbox 370 2546 1360 2783; x_wconf 65' lang='lat' dir='ltr'>cHORoGRAPch</span> <span class='ocrx_word' id='word_1_7' title='bbox 1619 2509 1628 2522; x_wconf 83' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2004 5417">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2004 5417">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2004 5417; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2004 5417; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
